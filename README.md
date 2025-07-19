@@ -1,0 +1,1 @@
+# genai_fast_skillup
